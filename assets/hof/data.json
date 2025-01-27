@@ -3,14 +3,12 @@
     {
       "name": "Asadullah Shuvo",
       "subject": "Anatomy",
-      "gender": "male",
-      "image": ""
+      "gender": "male"
     },
     {
       "name": "Afrin  Akhter Juthi",
       "subject": "Physiology",
-      "gender": "female",
-      "image": ""
+      "gender": "female"
     }
   ]
 }
